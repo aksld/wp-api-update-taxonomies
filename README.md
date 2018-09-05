@@ -1,2 +1,12 @@
-# wp-api-update-taxonomies
-Update terms of post from WP Rest API.
+# Update  terms
+
+```
+{
+	"append_taxonomies": true,
+	"taxonomies": {
+		"type_event": [
+			54
+		]
+	}
+}
+```
